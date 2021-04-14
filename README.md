@@ -1,7 +1,6 @@
 # Analisando_Risco_Clientes
 
-Análise de alguns dados sobre clientes tais como idade, número de membros da família, renda familiar, dentre outros. Foram deletados algumas colunas que não foram aproveitadas.
-A visualização com a biblioteca plotly demonstrou análises cruzadas de vários atributos do conjunto de dados.
+Análise de alguns dados sobre clientes tais como idade, número de membros da família, renda familiar, dentre outros retirados do site https://data.mendeley.com/datasets/27cndjvfbx/1. Foram deletados algumas colunas que não foram aproveitadas. A visualização com a biblioteca plotly demonstrou análises cruzadas de vários atributos do conjunto de dados.
 
  # Importando Bibliotecas 
 
