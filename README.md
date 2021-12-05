@@ -5,6 +5,12 @@
 # Sobre o projeto
 Análise de alguns dados sobre clientes tais como idade, número de membros da família, renda familiar, dentre outros retirados do site https://data.mendeley.com/datasets/27cndjvfbx/1. Foram deletados algumas colunas que não foram aproveitadas. A visualização com a biblioteca plotly demonstrou análises cruzadas de vários atributos do conjunto de dados.
 
+
+## Imagem web de Previsao_tempo
+<div align="center">
+<img src="https://user-images.githubusercontent.com/60937513/144745408-bd0d9d27-fe53-4707-93fe-e46a13c95005.png" width="600" />
+</div>
+
  # Importando Bibliotecas 
 import numpy as np 
 import pandas as pd 
