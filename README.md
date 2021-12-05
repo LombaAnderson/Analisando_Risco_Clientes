@@ -11,18 +11,6 @@ Análise de alguns dados sobre clientes tais como idade, número de membros da f
 <img src="https://user-images.githubusercontent.com/60937513/144745408-bd0d9d27-fe53-4707-93fe-e46a13c95005.png" width="700" />
 </div>
 
- # Importando Bibliotecas 
-import numpy as np 
-import pandas as pd 
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly as py
-from sklearn.cluster import KMeans
-import warnings
-import os
-warnings.filterwarnings("ignore")
-py.offline.init_notebook_mode(connected=True)
-
 # Tecnologias utilizadas
 
 - Anaconda
@@ -32,6 +20,8 @@ py.offline.init_notebook_mode(connected=True)
 - Seaborn
 - Matplotlib 
 - Plotly
+- sklearn.cluster
+- KMeans
 
 
 # Como executar o projeto
