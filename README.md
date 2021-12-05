@@ -1,9 +1,11 @@
 # Analisando_Risco_Clientes
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/Analisando_Risco_Clientes/blob/main/LICENSE)
 
+
+# Sobre o projeto
 Análise de alguns dados sobre clientes tais como idade, número de membros da família, renda familiar, dentre outros retirados do site https://data.mendeley.com/datasets/27cndjvfbx/1. Foram deletados algumas colunas que não foram aproveitadas. A visualização com a biblioteca plotly demonstrou análises cruzadas de vários atributos do conjunto de dados.
 
  # Importando Bibliotecas 
-
 import numpy as np 
 import pandas as pd 
 import matplotlib.pyplot as plt
@@ -57,3 +59,19 @@ dados_clientes['Fumante'].replace(['no','yes'],['Não','Sim'],inplace=True)
 dados_clientes['Preocupação com emprego'].replace(['no','yes'],['Não','Sim'],inplace=True)
 dados_clientes['Depressão'].replace(['no','yes','a little'],['Não','Sim','Um pouco'],inplace=True)
 dados_clientes['Trabalho'].replace(['no','yes'],['Não','Sim'],inplace=True)
+
+# Autor
+
+Anderson Lomba de Oliveira
+
+Linkedin
+
+https://www.linkedin.com/in/anderson-lomba-140279142/
+
+Portfólio
+
+https://www.lombanderson.epizy.com
+
+# Agradecimentos
+
+Agradeço sobretudo a Deus e a minha esposa Liciane.
